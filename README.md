@@ -28,5 +28,6 @@ This project analyzes one year of production data across multiple factories and 
 6.	Audit energy usage independent of production volume
 
 📌 Conclusion
+
 Prime Manufacturing Ltd. operates from a position of strength but faces clear opportunities to reduce downtime, improve quality, optimize maintenance, and cut energy waste. Implementing these recommendations will unlock capacity, lower costs, and strengthen competitiveness without major capital investment.
 
